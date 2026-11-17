@@ -16,7 +16,7 @@ Repositório acadêmico com atividades, estudos e projetos desenvolvidos ao long
 
 ---
 
-## 📌 Sobre o repositório
+## Sobre o repositório
 
 Este repositório reúne exercícios, implementações, experimentos e entregas acadêmicas desenvolvidos durante minha graduação em **Ciência da Computação na FIAP**.
 
@@ -36,7 +36,7 @@ Os conteúdos estão organizados por disciplina e área de conhecimento, acompan
 | [📁 Sprints FIAP Challenge](./Sprints%20FIAP-Challenge) | Etapas, atividades e entregas dos projetos do FIAP Challenge. |
 | [📁 Global Solution](./Global%20Solution) | Briefings, etapas, atividades e entregas dos projetos da Global Solution. |
 
-## 🧩 Formatos de atividades
+## Formatos de atividades
 
 Durante a graduação, participo de diferentes atividades e avaliações. Estas são algumas das principais:
 
