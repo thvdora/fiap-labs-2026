@@ -34,6 +34,7 @@ Os conteúdos estão organizados por disciplina e área de conhecimento, acompan
 | [📁 Computer Science](./Computer%20Science) | Atividades e conteúdos gerais de Ciência da Computação. |
 | [📁 Prompt and Artificial Intelligence](./Prompt%20and%20Artificial%20Intelligence) | Engenharia de prompts e aplicações de inteligência artificial. |
 | [📁 Sprints FIAP Challenge](./Sprints%20FIAP-Challenge) | Etapas, atividades e entregas dos projetos do FIAP Challenge. |
+| [📁 Global Solution](./Global%20Solution) | Briefings, etapas, atividades e entregas dos projetos da Global Solution. |
 
 ## 🧩 Formatos de atividades
 
