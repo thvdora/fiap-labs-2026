@@ -1,0 +1,9 @@
+# Arquivos gerados pela compilação (Visual Studio / MSVC)
+build/
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Configurações locais do editor
+.vscode/
