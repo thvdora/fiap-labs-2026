@@ -14,12 +14,6 @@ O programa classifica **automaticamente a gravidade** de cada ocorrência, organ
 - Pessoas com deficiência, idosos e pedestres em geral
 - Equipes de manutenção urbana, que passam a ter informações organizadas para priorizar atendimentos
 
-## 👩‍💻 Integrantes
-
-| Nome | RM |
-|---|---|
-| Isadora Soares Couto | 576852 |
-
 ## 🌍 Problema e ODS
 
 **Problema escolhido:** falta de acessibilidade e problemas de infraestrutura urbana.
