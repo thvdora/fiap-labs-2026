@@ -1,0 +1,14 @@
+GLOBAL SOLUTION 2026.2 — CERTIFICAÇÃO
+
+Projeto: MoveFree
+Frente: C — Acessibilidade
+Modalidade: Individual
+Turma: 1CCPA
+
+Aluna: Isadora Soares Couto
+RM: 576852
+
+Notebook Google Colab:
+https://colab.research.google.com/drive/14HSFOxYqLA2GNswNhqFq-6lRVBe2GYnn?usp=sharing
+
+Repositório GitHub: Não se aplica.

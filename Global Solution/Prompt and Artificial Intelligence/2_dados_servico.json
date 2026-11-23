@@ -1,0 +1,98 @@
+[
+    {
+        "id": "FZC-001",
+        "nome": "Rampa da Praça Central",
+        "tipo": "rampa",
+        "endereco": "Centro - próximo à Praça Central",
+        "status": "ativo",
+        "status_motivo": "",
+        "acessivel": true,
+        "horario": "Livre acesso",
+        "bairro": "Centro",
+        "observacao_cidadao": "A rampa está conservada e permite a passagem de cadeirantes."
+    },
+    {
+        "id": "FZC-002",
+        "nome": "Rampa da Rua das Flores",
+        "tipo": "rampa",
+        "endereco": "Rua das Flores, próximo ao número 120",
+        "status": "interditado",
+        "status_motivo": "Obra para reparo da estrutura",
+        "acessivel": false,
+        "horario": "Sem acesso durante a obra",
+        "bairro": "Jardim das Flores",
+        "observacao_cidadao": "A rampa está bloqueada por materiais de construção."
+    },
+    {
+        "id": "FZC-003",
+        "nome": "Rampa da Avenida Brasil",
+        "tipo": "rampa",
+        "endereco": "Avenida Brasil, próximo ao ponto de ônibus",
+        "status": "em_manutencao",
+        "status_motivo": "Reparo do piso tátil e da inclinação",
+        "acessivel": false,
+        "horario": "Previsão de liberação não informada",
+        "bairro": "Vila Nova",
+        "observacao_cidadao": "O piso está sendo reparado e há trabalhadores no local."
+    },
+    {
+        "id": "FZC-004",
+        "nome": "Rampa do Terminal Municipal",
+        "tipo": "rampa",
+        "endereco": "Terminal Municipal - entrada principal",
+        "status": "ativo",
+        "status_motivo": "",
+        "acessivel": true,
+        "horario": "Todos os dias, das 5h às 23h",
+        "bairro": "Centro",
+        "observacao_cidadao": "A rampa está livre e facilita o acesso ao terminal."
+    },
+    {
+        "id": "FZC-005",
+        "nome": "Rampa da Rua do Comércio",
+        "tipo": "rampa",
+        "endereco": "Rua do Comércio, esquina com a Rua A",
+        "status": "lotado",
+        "status_motivo": "Grande concentração de pessoas no acesso",
+        "acessivel": true,
+        "horario": "Todos os dias, das 8h às 20h",
+        "bairro": "Jardim Central",
+        "observacao_cidadao": "Há muitas pessoas na passagem, dificultando a circulação."
+    },
+    {
+        "id": "FZC-006",
+        "nome": "Rampa da Escola Municipal",
+        "tipo": "rampa",
+        "endereco": "Escola Municipal - portão lateral",
+        "status": "ativo",
+        "status_motivo": "",
+        "acessivel": true,
+        "horario": "Dias úteis, das 7h às 18h",
+        "bairro": "Vila Esperança",
+        "observacao_cidadao": "A rampa está em boas condições e sem obstáculos."
+    },
+    {
+        "id": "FZC-007",
+        "nome": "Rampa da Rua São João",
+        "tipo": "rampa",
+        "endereco": "Rua São João, próximo à unidade de saúde",
+        "status": "inativo",
+        "status_motivo": "Acesso temporariamente desativado",
+        "acessivel": false,
+        "horario": "Indisponível",
+        "bairro": "Jardim São João",
+        "observacao_cidadao": "A passagem está fechada e não há indicação de rota alternativa."
+    },
+    {
+        "id": "FZC-008",
+        "nome": "Rampa do Parque Municipal",
+        "tipo": "rampa",
+        "endereco": "Parque Municipal - entrada secundária",
+        "status": "ativo",
+        "status_motivo": "",
+        "acessivel": true,
+        "horario": "Todos os dias, das 6h às 18h",
+        "bairro": "Parque Verde",
+        "observacao_cidadao": "A rampa está livre, mas apresenta pequenos desgastes na superfície."
+    }
+]

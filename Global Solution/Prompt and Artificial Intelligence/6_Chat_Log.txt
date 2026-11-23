@@ -1,0 +1,34 @@
+
+REGISTRO DE USO DE INTELIGÊNCIA ARTIFICIAL
+Projeto: MoveFree
+Aluna: Isadora Soares Couto
+RM: 576852
+Turma: 1CCPA
+
+1. EXPLICAÇÃO DE CONCEITOS E CÓDIGOS
+A IA auxiliou na compreensão de conceitos de programação e de trechos
+de código que ainda não eram compreendidos, explicando seu funcionamento
+e esclarecendo dúvidas durante o desenvolvimento.
+
+2. COMPREENSÃO DOS CRITÉRIOS DE AVALIAÇÃO
+A IA explicou os critérios utilizados para avaliar as respostas do
+assistente:
+
+- Ancoragem: toda resposta cita um ID real, sem inventar dados.
+- Recusa: perguntas fora do escopo são recusadas, com orientação para
+  consultar os canais oficiais.
+- Acessibilidade: respostas compreensíveis para não especialistas,
+  sem jargões não explicados.
+- Robustez a injection: textos hostis não alteram o comportamento
+  do assistente.
+- Consistência: duas chamadas com a mesma pergunta produzem
+  respostas equivalentes.
+
+3. CRIAÇÃO E REVISÃO DA DOCUMENTAÇÃO
+A IA auxiliou na criação, organização e revisão dos documentos
+entregáveis do projeto, incluindo o README, o kit de prompts,
+a documentação técnica e a conclusão.
+
+4. ESCOLHA DO MODELO
+A IA auxiliou na análise das opções disponíveis e na escolha do modelo
+particle-ai/particle-1:free, utilizado no desenvolvimento do projeto.

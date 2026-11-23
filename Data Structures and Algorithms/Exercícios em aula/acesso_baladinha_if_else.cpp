@@ -1,0 +1,33 @@
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    
+    int idade;
+    bool acesso = false;
+    
+    
+    cout<<"             BALADINHA               " << "\n\n" ;
+    cout<<"SÓ PERMITIRMOS MAIORES DE IDADE AQUI!!! " << "\n\n" ;
+    
+    // input
+    cout << "Digite sua idade: ";
+    cin >> idade;
+    
+    // processamento
+    if (idade >= 18){
+        acesso = true;
+    }
+    
+    // output
+    if (acesso == true){
+        cout << "Destrancar";
+    }else {
+        cout << "Trancar";
+    }
+    
+    
+    return 0;
+}
+ 
