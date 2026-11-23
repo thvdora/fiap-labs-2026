@@ -162,5 +162,3 @@ python checkpoint-1/pcp_checkpoint1_ex01.py
 Os programas pedem os dados pelo terminal, então basta seguir as instruções na tela.
 
 ---
-
-<p align="center">Feito com 💜 durante a graduação na FIAP</p>
